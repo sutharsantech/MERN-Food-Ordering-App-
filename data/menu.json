@@ -1,0 +1,7 @@
+[
+  { "name": "Cheesy Pizza", "price": 12, "ecoFriendly": true },
+  { "name": "Veggie Burger", "price": 8, "ecoFriendly": true },
+  { "name": "Spicy Ramen", "price": 10, "ecoFriendly": false },
+  { "name": "Tandoori Chicken", "price": 14, "ecoFriendly": false }
+]
+
